@@ -14,26 +14,6 @@ A login and registration system programmed in C++ that utilizes password hashing
     
     
     
-<h2>
-INFO
-</h2>
-<footer>
-A Login and Registration System Programmed in C++
-
-<br>
-DEVELOPED BY NEMONET (TYP)
-
-<br><hr>
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO PULL AN ISSUE *****  
-
-<hr>
-***** LEAVE A COMMENT IF YOU LOVE MY WORK *****
-
-<hr>
-***** PLS FORK AND GIVE A STAR IF YOU LIKE THIS PROJECT *****
-
-</footer>
-
 
 
 
